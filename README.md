@@ -22,7 +22,7 @@ _Not necessarily super proficient in these, they're just the ones that I use or 
 ![MySQL](https://img.shields.io/badge/MySQL-005c84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2av?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-c71a36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge&logo=Zsh&logoColor=white)
