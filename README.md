@@ -13,18 +13,56 @@ frontend environments, with my primary language being JavaScript/TypeScript.
 
 _Not necessarily super proficient in these, they're just the ones that I use or have experience with._
 
-![Python](https://img.shields.io/badge/Python-ffd43b?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![OpenJDK (Java)](https://img.shields.io/badge/OpenJDK-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/Sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005c84?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-c71a36?style=for-the-badge&logo=apachemaven&logoColor=white)
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  alt="Python"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  alt="JavaScript"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  alt="TypeScript"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  alt="Java"
+  height="40px"
+/>
 
-![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge&logo=Zsh&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-fbb040?style=for-the-badge&logo=homebrew&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=for-the-badge&logo=vscodium&logoColor=white)
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  alt="MySQL"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  alt="Node.js"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  alt="React"
+  height="40px"
+/>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg"
+  alt="Zsh"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg"
+  alt="Homebrew"
+  height="40px"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  alt="Visual Studio Code"
+  height="40px"
+/>
