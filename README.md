@@ -13,56 +13,24 @@ frontend environments, with my primary language being JavaScript/TypeScript.
 
 _Not necessarily super proficient in these, they're just the ones that I use or have experience with._
 
+<div align="center">
+  
+  **Languages, Libraries, Frameworks**
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  alt="Python"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  alt="JavaScript"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  alt="TypeScript"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  alt="Java"
-  height="40px"
-/>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Jupyter](https://img.shields.io/badge/jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TanStack Router](https://img.shields.io/badge/tanstack%20router-00BC7D?style=for-the-badge&logo=tanstack&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  alt="MySQL"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-  alt="Node.js"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  alt="React"
-  height="40px"
-/>
+  **Tools, Tech, Setup**
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg"
-  alt="Zsh"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg"
-  alt="Homebrew"
-  height="40px"
-/>
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  alt="Visual Studio Code"
-  height="40px"
-/>
+  ![Windows 11](https://img.shields.io/badge/windows%2011-0079D5.svg?style=for-the-badge&logoColor=white)
+  ![Windows Subsystem for Linux](https://img.shields.io/badge/windows%20subsystem%20for%20linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Zsh](https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+  ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+</div>
