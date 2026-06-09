@@ -9,14 +9,9 @@ frontend environments, with my primary language being JavaScript/TypeScript.
 - Studying for a bachelor's degree in Computer Science/Engineering.
 - Trying to learn the Rust programming language.
 
-## Languages and Tools
+## Tech Stack
 
 _Not necessarily super proficient in these, they're just the ones that I use or have experience with._
-  
-### Languages, Libraries, Frameworks
-  
-![Skill Icons](https://go-skill-icons.vercel.app/api/icons?i=python,pytest,javascript,typescript,nodejs,react,tanstack,vitest,java)
 
-### Tools, Tech, Setup
+![Skill Icons](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,discordjs,react,java,fabricmc,mongodb,mysql)
 
-![Skill Icons](https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,macos,ghostty,powershell,chrome,vscode,git)
